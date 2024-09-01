@@ -21,6 +21,9 @@ Welcome to the Password Strength Checker! This tool helps you evaluate the stren
 
 Try out the Password Strength Checker live here: [Password Strength Checker](https://khaleelsyed8.github.io/Password-Strength-Analyzer/PasswordStrength/index.html)
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/843785d7-ba55-45c1-b4fd-4fb09a40e5ec)
+
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or issues, please open an issue on the [GitHub repository](https://github.com/khaleelsyed8/Password-Strength-Analyzer).
